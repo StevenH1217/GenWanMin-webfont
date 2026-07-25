@@ -1,7 +1,8 @@
 # GenWanMin-webfont
 本專案為源雲明體（GenWanMin）的非官方woff2版，提供jsDelivr網址以便嵌入進CSS。
-```
 
+原作者：ButTaiwan（But Ko）
+```
 ***Regular字重，TC字型***
 @font-face {
   font-family: "GenWanMin";
