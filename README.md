@@ -3,7 +3,6 @@
 
 原作者：ButTaiwan（But Ko）
 ```
-***Regular字重，TC字型***
 @font-face {
   font-family: "GenWanMin";
   font-display: swap;
@@ -12,7 +11,6 @@
   src: url("https://cdn.jsdelivr.net/gh/StevenH1217/GenWanMin-webfont@main/GenWanMin2TC-R.woff2") format("woff2");
 }
 
-***Medium字重，TC字型***
 @font-face {
   font-family: "GenWanMin";
   font-display: swap;
@@ -21,7 +19,6 @@
   src: url("https://cdn.jsdelivr.net/gh/StevenH1217/GenWanMin-webfont@main/GenWanMin2TC-M.woff2") format("woff2");
 }
 
-***Semi-Bold字重，TC字型***
 @font-face {
   font-family: "GenWanMin";
   font-display: swap;
